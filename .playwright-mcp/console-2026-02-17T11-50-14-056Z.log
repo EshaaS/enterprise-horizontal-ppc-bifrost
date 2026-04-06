@@ -1,0 +1,169 @@
+[     380ms] ReferenceError: goPrev is not defined
+    at TestimonialsSection (http://localhost:5178/src/app/components/ContentSections.tsx:470:22)
+    at renderWithHooks (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:11594:26)
+    at mountIndeterminateComponent (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:14972:21)
+    at beginWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:15960:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3678:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3703:24)
+    at invokeGuardedCallback (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3737:39)
+    at beginWork$1 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19816:15)
+    at performUnitOfWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19249:20)
+    at workLoopSync (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19188:13)
+[     393ms] ReferenceError: goPrev is not defined
+    at TestimonialsSection (http://localhost:5178/src/app/components/ContentSections.tsx:470:22)
+    at renderWithHooks (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:11594:26)
+    at mountIndeterminateComponent (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:14972:21)
+    at beginWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:15960:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3678:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3703:24)
+    at invokeGuardedCallback (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3737:39)
+    at beginWork$1 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19816:15)
+    at performUnitOfWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19249:20)
+    at workLoopSync (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19188:13)
+[     396ms] [ERROR] The above error occurred in the <TestimonialsSection> component:
+
+    at TestimonialsSection (http://localhost:5178/src/app/components/ContentSections.tsx:470:22)
+    at main
+    at div
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:14077
+[     403ms] ReferenceError: goPrev is not defined
+    at TestimonialsSection (http://localhost:5178/src/app/components/ContentSections.tsx:470:22)
+    at renderWithHooks (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:11594:26)
+    at mountIndeterminateComponent (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:14972:21)
+    at beginWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:15960:22)
+    at beginWork$1 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19804:22)
+    at performUnitOfWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19249:20)
+    at workLoopSync (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19188:13)
+    at renderRootSync (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19167:15)
+    at recoverFromConcurrentError (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:18784:28)
+    at performConcurrentWorkOnRoot (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:18732:30)
+[     603ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5178/favicon.ico:0
+[    5313ms] ReferenceError: goPrev is not defined
+    at TestimonialsSection (http://localhost:5178/src/app/components/ContentSections.tsx:470:22)
+    at renderWithHooks (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:11594:26)
+    at mountIndeterminateComponent (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:14972:21)
+    at beginWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:15960:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3678:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3703:24)
+    at invokeGuardedCallback (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3737:39)
+    at beginWork$1 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19816:15)
+    at performUnitOfWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19249:20)
+    at workLoopSync (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19188:13)
+[    5316ms] ReferenceError: goPrev is not defined
+    at TestimonialsSection (http://localhost:5178/src/app/components/ContentSections.tsx:470:22)
+    at renderWithHooks (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:11594:26)
+    at mountIndeterminateComponent (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:14972:21)
+    at beginWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:15960:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3678:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3703:24)
+    at invokeGuardedCallback (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3737:39)
+    at beginWork$1 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19816:15)
+    at performUnitOfWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19249:20)
+    at workLoopSync (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19188:13)
+[    5317ms] [ERROR] The above error occurred in the <TestimonialsSection> component:
+
+    at TestimonialsSection (http://localhost:5178/src/app/components/ContentSections.tsx:470:22)
+    at main
+    at div
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:14077
+[    5317ms] ReferenceError: goPrev is not defined
+    at TestimonialsSection (http://localhost:5178/src/app/components/ContentSections.tsx:470:22)
+    at renderWithHooks (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:11594:26)
+    at mountIndeterminateComponent (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:14972:21)
+    at beginWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:15960:22)
+    at beginWork$1 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19804:22)
+    at performUnitOfWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19249:20)
+    at workLoopSync (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19188:13)
+    at renderRootSync (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19167:15)
+    at recoverFromConcurrentError (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:18784:28)
+    at performConcurrentWorkOnRoot (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:18732:30)
+[    6255ms] ReferenceError: goPrev is not defined
+    at TestimonialsSection (http://localhost:5178/src/app/components/ContentSections.tsx:470:22)
+    at renderWithHooks (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:11594:26)
+    at mountIndeterminateComponent (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:14972:21)
+    at beginWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:15960:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3678:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3703:24)
+    at invokeGuardedCallback (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3737:39)
+    at beginWork$1 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19816:15)
+    at performUnitOfWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19249:20)
+    at workLoopSync (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19188:13)
+[    6258ms] ReferenceError: goPrev is not defined
+    at TestimonialsSection (http://localhost:5178/src/app/components/ContentSections.tsx:470:22)
+    at renderWithHooks (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:11594:26)
+    at mountIndeterminateComponent (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:14972:21)
+    at beginWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:15960:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3678:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3703:24)
+    at invokeGuardedCallback (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3737:39)
+    at beginWork$1 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19816:15)
+    at performUnitOfWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19249:20)
+    at workLoopSync (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19188:13)
+[    6258ms] [ERROR] The above error occurred in the <TestimonialsSection> component:
+
+    at TestimonialsSection (http://localhost:5178/src/app/components/ContentSections.tsx:470:22)
+    at main
+    at div
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:14077
+[    6259ms] ReferenceError: goPrev is not defined
+    at TestimonialsSection (http://localhost:5178/src/app/components/ContentSections.tsx:470:22)
+    at renderWithHooks (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:11594:26)
+    at mountIndeterminateComponent (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:14972:21)
+    at beginWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:15960:22)
+    at beginWork$1 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19804:22)
+    at performUnitOfWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19249:20)
+    at workLoopSync (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19188:13)
+    at renderRootSync (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19167:15)
+    at recoverFromConcurrentError (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:18784:28)
+    at performConcurrentWorkOnRoot (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:18732:30)
+[   21250ms] ReferenceError: goPrev is not defined
+    at TestimonialsSection (http://localhost:5178/src/app/components/ContentSections.tsx:470:22)
+    at renderWithHooks (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:11594:26)
+    at mountIndeterminateComponent (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:14972:21)
+    at beginWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:15960:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3678:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3703:24)
+    at invokeGuardedCallback (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3737:39)
+    at beginWork$1 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19816:15)
+    at performUnitOfWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19249:20)
+    at workLoopSync (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19188:13)
+[   21289ms] ReferenceError: goPrev is not defined
+    at TestimonialsSection (http://localhost:5178/src/app/components/ContentSections.tsx:470:22)
+    at renderWithHooks (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:11594:26)
+    at mountIndeterminateComponent (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:14972:21)
+    at beginWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:15960:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3678:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3703:24)
+    at invokeGuardedCallback (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:3737:39)
+    at beginWork$1 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19816:15)
+    at performUnitOfWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19249:20)
+    at workLoopSync (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19188:13)
+[   21292ms] [ERROR] The above error occurred in the <TestimonialsSection> component:
+
+    at TestimonialsSection (http://localhost:5178/src/app/components/ContentSections.tsx:470:22)
+    at main
+    at div
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:14077
+[   21306ms] ReferenceError: goPrev is not defined
+    at TestimonialsSection (http://localhost:5178/src/app/components/ContentSections.tsx:470:22)
+    at renderWithHooks (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:11594:26)
+    at mountIndeterminateComponent (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:14972:21)
+    at beginWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:15960:22)
+    at beginWork$1 (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19804:22)
+    at performUnitOfWork (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19249:20)
+    at workLoopSync (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19188:13)
+    at renderRootSync (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:19167:15)
+    at recoverFromConcurrentError (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:18784:28)
+    at performConcurrentWorkOnRoot (http://localhost:5178/node_modules/.vite/deps/chunk-P54KGGSI.js?v=c8cd74f5:18732:30)
